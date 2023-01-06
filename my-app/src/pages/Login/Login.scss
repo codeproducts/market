@@ -1,0 +1,61 @@
+.logincontent{
+    margin-top: 150px;
+    margin-left: 110px;
+    display: flex;
+    height: 500px;
+    width: 550px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.heading{
+    font-size: 38px;
+    font-weight: 700;
+    font-family: "lato";
+    margin-left: 205px;
+    padding-top: 50px;
+}
+
+form{
+    margin-top: 130px;
+    margin-left: -120px;
+    input{
+        margin-bottom: 20px;
+        width: 300px;
+        height: 50px;
+        border-color: black;
+        border-radius: 10px;
+        border: 60;
+    }
+    button{
+        margin-top: 10px;
+        margin-left:25px;
+        width: 250px;
+        height: 50px;
+        color: white;
+        background-color: black;
+        border: 0;
+        border-radius: 10px;
+    }
+    hr{
+        margin-top: 30px;
+        width: 300px;
+        height: 5px;
+        border: 0;
+        border-radius: 5px;
+        color: black;
+        background-color:black;
+    }
+    .createacc{
+        margin-top: 15px;
+        background-color:#6B728E;
+    }
+}
+.flowers{
+    width: 700px;
+    margin-top: 10px;
+    margin-left: 750px;
+    margin-top: -550px;
+    height: 630px;
+    border-radius: 10px;
+}
