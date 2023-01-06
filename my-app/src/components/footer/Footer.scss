@@ -1,0 +1,24 @@
+.footer{
+    width: 100%;
+    height: 200px;
+    padding-top: 50px;
+    background-color: black;
+
+    .contactUs{
+    color: white;
+    text-align: center;
+    font-size: 1.7rem;
+    }
+
+    .handles{
+        padding:10px;
+        display: flex;
+        justify-content: center;
+        i{
+color: white;
+padding: 7px;
+        }
+    }
+   
+ 
+}
